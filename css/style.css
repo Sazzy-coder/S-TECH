@@ -88,3 +88,11 @@ background: linear-gradient(90deg, rgb(111, 155, 212) 18%, rgb(122, 33, 194) 97%
     width: 90px;
     margin:0 auto;
 }
+
+.form-section input{
+    font-size: 12px;
+   
+}
+.center{
+    margin: 0 auto;
+}
