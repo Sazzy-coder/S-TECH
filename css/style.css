@@ -30,15 +30,18 @@ background: linear-gradient(90deg, rgb(111, 155, 212) 18%, rgb(122, 33, 194) 97%
 
 }
 .jo{
-    padding:auto 0px;
+    /* padding:auto 0px; */
     font-size: 40px;
-    /* font-weight: 500; */
+    font-weight: 500;
+    
+    
 }
 .list ul li{
     list-style: none;
     list-style-image: url(../img/check.svg);
-    
+   
 }
+
 
 .test{
     color:black
@@ -77,4 +80,11 @@ background: linear-gradient(90deg, rgb(111, 155, 212) 18%, rgb(122, 33, 194) 97%
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+
+.jo img{
+    width: 90px;
+    margin:0 auto;
 }
