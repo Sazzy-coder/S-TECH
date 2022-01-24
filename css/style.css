@@ -96,3 +96,7 @@ background: linear-gradient(90deg, rgb(111, 155, 212) 18%, rgb(122, 33, 194) 97%
 .center{
     margin: 0 auto;
 }
+.marg{
+   padding-top: 10px;
+
+}
